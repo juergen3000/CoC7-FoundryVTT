@@ -126,5 +126,5 @@
   "secondaryTokenAttribute": "attribs.san",
   "url": "https://github.com/juergen3000/CoC7-FoundryVTT",
   "manifest": "https://raw.githubusercontent.com/juergen3000/CoC7-FoundryVTT/features/occupations/system.json",
-  "download": "https://github.com/juergen3000/CoC7-FoundryVTT/releases/latest/download/system.zip"
+  "download": "https://github.com/juergen3000/CoC7-FoundryVTT/archive/refs/tags/0.0.1.zip"
 }
