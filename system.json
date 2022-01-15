@@ -124,7 +124,7 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "attribs.hp",
   "secondaryTokenAttribute": "attribs.san",
-  "url": "https://github.com/Miskatonic-Investigative-Society/CoC7-FoundryVTT",
+  "url": "https://github.com/juergen3000/CoC7-FoundryVTT",
   "manifest": "https://raw.githubusercontent.com/juergen3000/CoC7-FoundryVTT/features/occupations/system.json",
-  "download": "https://github.com/juergen3000/CoC7-FoundryVTT/archive/refs/tags/occupations_initial.zip"
+  "download": "https://github.com/juergen3000/CoC7-FoundryVTT/releases/latest/download/system.zip"
 }
